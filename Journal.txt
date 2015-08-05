@@ -13,4 +13,5 @@ Iteration 1:
 
     Weak Scaling: Each CU always uses 262144 elements to calculate 256 centers
     for the clusters. The number of CUs is also equal to the number of cores used.
-    Those are 16, 32, 64, 128 and 256.
+    Those are 16, 32, 64, 128 and 256. The number of iterations was set to 10.
+    The figure shows only the first three iterations.
